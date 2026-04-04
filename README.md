@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm Hasnae Saadaoui!
 
-**Backend Developer & Junior Data Engineer**  
+**Backend Developer r**  
 📍 Based in Morocco  
 💡 Currently exploring **Data Engineering**, **AWS**, and **Machine Learning**
 
