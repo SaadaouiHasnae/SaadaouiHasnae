@@ -1,38 +1,59 @@
-# 🌟 Hi there, I'm Hasnae Saadaoui!
 
-**Backend Developer r**  
-📍 Based in Morocco  
-💡 Currently exploring **Data Engineering**, **AWS**, and **Machine Learning**
+# Hi, I'm Hasnae
 
----
+I am a Junior Backend Developer from Morocco with a business mindset and a creative background.
+I focus on building useful web applications using Python, Django, databases, and clean design principles.
+I am currently improving my backend development skills through real projects, APIs, and database-driven applications.
 
-## 🧠 About Me
-I’m passionate about transforming data into meaningful insights and building reliable, scalable solutions.  
-With a background in **Business Administration** and **Data Engineering**, I combine analytical thinking with technical creativity to solve real-world problems.  
+## About Me
 
-Currently, I’m deepening my skills in **Python**, **SQL**, and **AWS**, while working on projects that enhance my experience with data pipelines and backend systems.
+* Junior Backend Developer focused on Python and Django
+* BBA graduate, currently pursuing a Bachelor's degree in Computer Science
+* Interested in backend development, web applications, databases, and practical software solutions
+* Open to junior backend opportunities and freelance projects
 
----
+## Skills
 
-## ⚙️ Tech Stack
-- **Languages:** Python, SQL  
-- **Cloud:** AWS  
-- **Databases:** MySQL, PostgreSQL  
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Tkinter, Pygame  
-- **Areas of Interest:** Data Engineering, ETL, Data Visualization, Cloud Infrastructure  
+**Backend Development**
+Python, Django, REST APIs
 
----
+**Databases**
+MySQL, SQLite
 
-## 🚀 Projects
-- **Weather App** — Displays real-time weather information using an external API.  
-- **Translator App** — Multilingual translation tool with a Tkinter interface.  
-- **Calendar App** — Interactive calendar desktop application.  
-- **Snake Game** — Classic game developed with Python.  
-- **Stock Tracker** — Tracks stock data and displays analytics.  
+**Frontend Basics**
+HTML, CSS, JavaScript
 
----
+**Design Background**
+Graphic Design, UI Design
 
-## 📫 Contact
+## Projects
+
+### AI Resume Generator / ATS
+
+An AI-powered resume generator built with HTML, CSS, JavaScript, and AI/API integration.
+The project allows users to create resumes from input, use templates, and generate professional resume outputs.
+
+### Calendar App
+
+A simple calendar viewer application built to practice frontend structure and user interface organization.
+The next improvement planned for this project is adding event creation, editing, and management features.
+
+## Currently Learning
+
+* Advanced Python
+* Django projects
+* Backend APIs
+* Databases
+* Node.js
+* React
+* Git and GitHub
+
+## Background
+
+I have a background in Business Administration and experience in customer service and freelance graphic design.
+This helps me combine technical learning with communication, creativity, and a practical understanding of user needs.
+
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/hasnae-saadaoui-6b795425a/)  
 - ✉️ You can reach me through my GitHub profile or LinkedIn!
 
